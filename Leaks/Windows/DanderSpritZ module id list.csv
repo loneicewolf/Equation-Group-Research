@@ -1,0 +1,106 @@
+Module ID,Module Name,Module Config Name
+,,
+8,Dsz_RamStore  ,Dsz_RamStore.xml
+9,DszLoader ,DszLoader.xml
+10,Aesref,Aesref.xml
+11,Maes ,Maes.xml
+12,ThreadPool,ThreadPool.xml
+13,RpcManager ,RpcManager.xml
+14,Crc32ref ,Crc32ref.xml
+15,Friezeramp ,Friezeramp.xml
+17,NullCipherRef ,NullCipherRef.xml
+18,Rc4Ref ,Rc4Ref.xml
+20,DszLink ,DszLink.xml
+21,NetbufMgr ,NetbufMgr.xml
+22,LinkMgr ,LinkMgr.xml
+23,RamFipQueue ,RamFipQueue.xml 
+25,Zlib ,Zlib.xml
+,,
+100,Dsz_Core_Target,Dsz_Core_Target.xml
+101,Dsz_VirtualCd  ,Dsz_VirtualCd.xml
+103,Dsz_Stream ,Dsz_Stream.xml
+105,Dsz_ConMgr ,Dsz_ConMgr.xml 
+106,Mcl_ThreadInject_Std ,Mcl_ThreadInject_Std 
+107,Mcl_ThreadInject_DrNi  ,Mcl_ThreadInject_DrNi
+108,Mcl_NtNativeApi ,Mcl_NtNativeApi_Fail.xml 
+109,Mcl_NtElevation ,Mcl_NtElevation.xml 
+110,Dsz_SessionMgr ,Dsz_SessionMgr.xml
+112,Mcl_NtElevation_ElEi_GyCa ,Mcl_NtElevation_ElEi_GyCa.xml
+113,Mcl_NtElevation_EpMo_GyCa,Mcl_NtElevation_EpMo_GyCa.xml 
+114,Mcl_NtMemory_Std ,Mcl_NtMemory_Std.xml 
+115,Mcl_NtMemory_DrNi ,Mcl_NtMemory_DrNi.xml
+116,Mcl_NtNativeApi_Dswi_BH ,Mcl_NtNativeApi_BH.xml 
+118,Mcl_NtNativeApi_Win32  ,Mcl_NtNativeApi_Win32.xml 
+119,Mcl_NtNativeApi_Dswi ,Mcl_NtNativeApi_DsWi.xml
+120,Mcl_NtMemory ,Mcl_NtMemory_Fail.xml 
+121,Mcl_ThreadInject ,Mcl_ThreadInject_Fail.xml
+122,Mcl_NtElevation_EpMo_GrSa ,Mcl_NtElevation_EpMo_GrSa.xml  
+123,Mcl_NtElevation_EpMe_GrSa ,Mcl_NtElevation_EpMe_GrSa.xml 
+124,Mcl_NtElevation_ErNi_GrSa ,Mcl_NtElevation_ErNi_GrSa.xml 
+128,Mcl_NtElevation_ElEi_GyCa_Wow64 ,Mcl_NtElevation_ElEi_GyCa_Wow64.xml
+129,Mcl_NtElevation_EpMo_GyCa_Wow64 ,Mcl_NtElevation_EpMo_GyCa_Wow64.xml
+130,Mcl_NtElevation_EpMo_GrSa_Wow64,Mcl_NtElevation_EpMo_GrSa_Wow64.xml
+131,Mcl_NtElevation_EpMe_GrSa_Wow64 ,Mcl_NtElevation_EpMe_GrSa_Wow64.xml
+150,Dsz_Core_Lp  ,Dsz_Core_Lp.xml 
+152,Dsz_Dispatcher_Lp ,Dsz_Dispatcher_Lp.xml   
+155,Dsz_Error_Lp ,Dsz_Error_Lp.xml
+,,
+201,Dir_Target ,Dir_Target.xml
+203,Cd_Target,Cd_Target.xml
+204,Mkdir_Target,Mkdir_Target.xml
+205,Rmdir_Target,Rmdir_Target.xml 
+206,Put_Target,Put_Target.xml
+207,Get_Target,Get_Target.xml
+210,Drives_Target,Drives_Target.xml
+215,CurrentUsers_Target,CurrentUsers_Target.xml 
+216,Copy_Target,Copy_Target.xml
+217,Delete_Target,Delete_Target.xml  
+218,Move_Target,Move_Target.xml 
+219,Run_Target,Run_Target.xml 
+221,MatchFileTimes_Target,MatchFileTimes_Target.xml
+222,Strings_Target,MatchFileTimes_Target.xml
+223,Kill_Target ,Kill_Target.xml    
+224,Processes_Target,Processes_Target.xml
+225,Ifconfig_Target,Ifconfig_Target.xml 
+227,Redirect_Target,Redirect_Target.xml 
+228,NetConnections_Target,NetConnections_Target.xml  
+229,Drivers_Target,Drivers_Target.xml 
+230,Netmap_Target,Netmap_Target.xml
+231,RegistryKeys_Target,RegistryKeys_Target.xml
+232,DeviceQuery_Target,DeviceQuery_Target.xml 
+,,
+300,Sql_Target  ,Sql_Target.xml  
+308,UpTime_Target ,UpTime_Target.xml  
+320,SerialRedirect_Target,SerialRedirect_Target.xml
+,,
+401,Dir_Lp,Dir_Lp.xml
+403,Cd_Lp,Cd_Lp.xml 
+404,Mkdir_Lp,Mkdir_Lp.xml
+405,Rmdir_Lp,Rmdir_Lp.xml  
+406,Put_Lp,Put_Lp.xml 
+407,Get_Lp,Get_Lp.xml 
+410,Drives_Lp,Drives_Lp.xml
+415,CurrentUsers_Lp,CurrentUsers_Lp.xml 
+416,Copy_Lp ,Copy_Lp.xml 
+417,Delete_Lp,Delete_Lp.xml 
+418,Move_Lp,Move_Lp.xml
+419,Run_Lp,Run_Lp.xml 
+421,MatchFileTimes_Lp,MatchFileTimes_Lp.xml 
+422,Strings_Lp,Strings_Lp.xml 
+423,Kill_Lp,Kill_Lp.xml 
+424,Processes_Lp,Processes_Lp.xml 
+425,Ifconfig_Lp,Ifconfig_Lp.xml 
+426,FileType_Lp,FileType_Lp.xml 
+427,Redirect_Lp,Redirect_Lp.xml
+428,NetConnections_Lp,NetConnections_Lp.xml 
+429,Drivers_Lp,Drivers_Lp.xml 
+430,Netmap_Lp ,Netmap_Lp.xml  
+431,RegistryKeys_Lp ,RegistryKeys_Lp.xml      
+432,DeviceQuery_Lp,DeviceQuery_Lp.xml 
+,,
+500,Sql_Lp  ,Sql_Lp.xml 
+508,UpTime_Lp,UpTime_Lp.xml
+520,SerialRedirect_Lp,SerialRedirect_Lp.xml 
+,,
+1407,Get_Data,Get_Data.xml
+1429,Drivers_DataHandler,Drivers_Data.xml
