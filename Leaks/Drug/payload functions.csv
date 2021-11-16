@@ -42,7 +42,6 @@ RunAsChild_Lp.dll,RunAsChild_Implant.dll,Used to create subprocess and perform t
 ,tdi6.sys,"used for network sniffing, monitoring Ethernet and VPN 
 Traffic."
 PassFreely_LP.dll,PassFreely_Implant.dll,Still analyzing
-"""""",,
 Users_Lp.dll,Users_Implant.dll,View the current user list
 GroupUsers_Lp.dll,GroupUsers_Implant.dll,Modify the specified user group
 ,nc.exe,Nc network tools
