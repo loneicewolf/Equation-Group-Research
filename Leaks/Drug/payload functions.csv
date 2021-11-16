@@ -1,0 +1,69 @@
+,DoubleFeatureDll.dll.unfinalized,"User to create thread execution functions, the address
+passed by the caller. At the same time, there are
+SH256, AES, CRC32 and other internal algorithms."
+DuplicateToken_Lp.dll,DuplicateToken_Implant.dll,Used to gain the Token and perform the operation
+,DXGHLP16.SYS,"Used for network sniffing, monitoring Ethernet
+and VPN Traffic. Has support for Windows 9X."
+EventLogEdit_Lp.dll,EventLogEdit_Implant.dll,Used to edit the event log file.
+GetAdmin_Lp.dll,GetAdmin_Implant.dll,"Used to obtain administrator privileges
+and perform the operation."
+,kill_Implant.dll,"Used to end the process. The incoming parameter has
+an ID to terminate the process. The implementation
+of this function uses regular system functions,
+such as OpenProcess, TerminateProcess."
+,kill_Implant9x.dll,64-bit version of kill_Implant.dll
+LSADUMP_Lp.dll,LSADUMP_Implant.dll,"Used to read LSA credentials, and
+perform different operations
+depending on the incoming parameters"
+modifyAudit_Lp.dll,modifyAudit_Implant.dll,Used to modify the audit configuration.
+modifyAuthentication_Lp.dll,modifyAuthentication_Implant.dll,Used to modify permission authentication
+modifyGroup_Lp.dll,modifyGroup_Implant.dll,Used to modify user group permissions
+modifyPrivilege_Lp.dll,modifyPrivilege_Implant.dll,Used to modify user permission.
+,"msgkd,ex_","Used to release the GROK keyboard/clipboard
+recording driver."
+"""msgkd,ex_",,
+"""msgkd,ex_",,
+"""msgkd,ex_",,
+,mstcp32.sys,"Used for network sniffing, monitoring Ethernet 
+and VPN Traffic."
+nethide_Lp.dll,nethide_Implant.dll,Used to hide network connections.
+,ntevt.sys,Used for the event log related driver.
+,ntevtx64.sys,64-bit version of ntevt.sys
+PortMap_Lp.dll,PortMap_Implant.dll,Used for port mapping.
+ProcessHide_Lp.dll,ProcessHide_Implant.dll,"Used to hide the process, and restore it.
+It can implement different operations
+According to different parameters."
+,processinfo_Implant.dll,User to obtain process information.
+,processinfo_Implant9x.dll,64-bit version of processinfo_Implant.dll
+ProcessOptions_Lp.dll,ProcessOptions_Implant.dll,Used to set process execution attributes
+pwdump_Lp.dll,pwdump_Implant.dll,"Used to read the system password. It cant implement 
+different operations according to different parameters."
+RunAsChild_Lp.dll,RunAsChild_Implant.dll,Used to create subprocess and perform the operation.
+,tdi6.sys,"used for network sniffing, monitoring Ethernet and VPN 
+Traffic."
+PassFreely_LP.dll,PassFreely_Implant.dll,Still analyzing
+"""""",,
+Users_Lp.dll,Users_Implant.dll,View the current user list
+GroupUsers_Lp.dll,GroupUsers_Implant.dll,Modify the specified user group
+,nc.exe,Nc network tools
+ProcessCheck_Lp.dll,ProcessCheck_Implant.dll,Detect the specified process
+machineinfo_LP.dll,machineinfo_Implant.dll,Get host-related information
+ipconfig_LP.dll,IpConfig_Implant.dll,IP information acquisition
+FileAtrribs_LP.dll,FileAttribs_Implant.dll,File information acquisition
+NetstatMon_LP.dll,NetstatMon_Implant.dll,Network state acquisition
+Dns_LP.dll,Dns_Implant.dll,NS Settings acquisition
+language_LP.dll,language_Implant.dll,Language Information acquisition
+Enviroment_LP.dll,Environmental_Implant.dll,Environment variable information acquisition
+CheckMouse_LP.dll,CheckMouse_Implant.dll,Mouse correlation detection
+CheckKeyboard_LP.dll,CheckKeyboard_Implant.dll,Keyboard correlation detection
+NetBios_LP.dll,NetBios_Implant.dll,View Network Share
+NetGetDCName_LP.dll,NetGetDCName_Implant.dll,The network hostname acquisition
+Scheduler_LP.dll,Scheduler_Implant.dll,Schedule task settings
+AdUser_LP.dll,AdUser_Implant.dll,Add an account
+ArpScan_LP.dll,ArpScan_Implant.dll,ARP Scanning
+PacketRedirect_LP.dll,PacketRedirect_Implant.dll,Packet Redirection
+PacketScan_LP.dll,PacketScan_Implant.dll,Packet scanning
+RegKeys_LP.dll,RegKeys_Implant.dll,Registry operation
+RegQuery_LP.dll,RegQuery_Implant.dll,Registry key content access
+procMon_LP.dll,procMon_Implant.dll,Process monitoring
+RemoteExecute_LP.dll,RemoteExecute_Implant,Remotely execute files
