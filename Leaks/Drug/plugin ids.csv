@@ -1,0 +1,27 @@
+Plugin IDs,Plugin File,Plugin Use
+0x79,,
+,,
+0x79BB,PortMap.dll,Port mapping
+0x79B1,EventLogEdit.dll,change event logs
+0x79AC,ProcessHide.dll,process hiding
+0x79CD,pwdump.dll,reads system password
+0x79A8,GetAdmin.dll,Gets Admin Privs
+0x79C8,modifyAudit.dll,port mapping
+0x79ED,ModifyGroup.dll,modify user group permissions
+0x79CA,nethide.dll,network connection to hide
+0x79A4,RunAsChild.dll,Create child process
+0x79C9,LSADUMP.dll,reads LSA credentials
+0x79DB * DB or D8,ProcessOptions.dll,sets process execution properties
+,,
+0x80,,
+0x8022,nls_680w.dll,"Execute, download and process files"
+0x8024,cmib158w.dll * 8 or 6,Collect system information
+0x8080,mscoreep.dll,Monitor Browser Information
+0x8058,khlp733w.dll,Collect WMI information
+0x80AE,wpit913h.dll,Keyboard and clipboard recording
+0x803E,nls_874w.dll,network monitoring
+0x80AA,nls_933_w.dll,HDD and SDD firmware modification
+0x80CC,webmgr.dll,web record exfiltration
+0x808A,khlp666w.dll,Z-lib based compression library
+0x803E * 3E or BE,khlp747w.dll,List process and system objects
+0x8048,mstkpr.dll,NTFS read based on ???????
