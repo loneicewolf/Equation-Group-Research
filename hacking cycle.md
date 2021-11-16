@@ -51,7 +51,7 @@ Stage 6: Data Exfiltration
 
     • Optional Proxying between this, this then communicates to DanderSpritz 
     • Danderspritz can CoC over the network as needed,  General Ops
-    • “docsurvey" identifies interesting documents (how so?) and sharepoint sites
+    • “docsurvey" identifies interesting documents and sharepoint sites
     • use the command "sharepoint" to recursively pull files
 	
 Stage 7: Intelligence dissemination (or general ops in this case, further implanting, spying, etc)
