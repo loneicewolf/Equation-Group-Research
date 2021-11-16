@@ -14,6 +14,7 @@ Plugin IDs,Plugin File,Plugin Use
 0x79DB * DB or D8,ProcessOptions.dll,sets process execution properties
 ,,
 0x80,,
+,,
 0x8022,nls_680w.dll,"Execute, download and process files"
 0x8024,cmib158w.dll * 8 or 6,Collect system information
 0x8080,mscoreep.dll,Monitor Browser Information
